@@ -1,0 +1,6 @@
+{
+  "name": "SIGA - Universidad Politécnica del Sur",
+  "description": "Sistema Integrado de Gestión Académica para estudiantes de la Universidad Politécnica del Sur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
